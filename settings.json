@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "Epic AFK Bot",
   "bot-account": {
     "username": "YourBotUsername",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
-    "version": "",
+    "ip": "EpicGemsSMP.aternos.me",
+    "port": 56377,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
